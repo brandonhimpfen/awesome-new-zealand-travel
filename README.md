@@ -4,6 +4,8 @@
 
 > A curated list of resources for traveling in New Zealand, covering official tourism portals, transport networks, regional guides, national parks, and biosecurity regulations.
 
+New Zealand is a breathtaking South Pacific destination featuring dramatic alpine ranges, deep fiords, volcanic geothermal regions, and pristine national parks. This list is intended for outdoor adventurers, alpine hikers, road-trip travelers, and nature conservationists.
+
 ## Contents
 
 - [Official & Planning](#official--planning)
